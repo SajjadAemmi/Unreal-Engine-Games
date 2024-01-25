@@ -1,6 +1,6 @@
 # Unreal Engine Games
 
-This repository contains games made with the Unreal Engine.
+Small games made with the Unreal Engine using C++.
 
 ## Games
 
